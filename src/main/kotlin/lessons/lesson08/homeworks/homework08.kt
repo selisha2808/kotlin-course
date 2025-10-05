@@ -1,4 +1,4 @@
-package org.example.lessons08.homeworks
+package org.example.lessons.lesson08.homeworks
 
 // 1) Преобразование строк
 fun transformPhrase(inputRaw: String): String {
